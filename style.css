@@ -3,15 +3,42 @@ body{
     color: white;
 }
 
-.cabeçalho-logotipo,
-.participe-do-projeto-img,
-.tecnicas-para-agricultores-pequenos-img,
+.cabeçalho-logotipo
+{
+    padding: 24px;
+    margin-top: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.participe-do-projeto-img
+{
+    padding: 24px;
+    margin-top: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.tecnicas-para-agricultores-pequenos-img
+{
+    padding: 24px;
+    margin-top: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
 .mercado-agricola-img
 {
     padding: 24px;
     margin-top: 5px;
     display: block;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: auto;
+    margin-right: auto;
     width: 50%;
 }
