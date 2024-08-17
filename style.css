@@ -26,8 +26,9 @@ body{
 {
     text-align: center;
     background-color: chartreuse;
-font-size: 200%
-
+font-size: 200%;
+display: flex;
+align-items: center;
 }
 
 .participe-do-projeto-img
