@@ -16,9 +16,11 @@ body{
     margin-top: 5px;
     display: block;
     margin-left: auto;
+    margin-right: auto;
     width: 30%;
     width: 50px; 
     display: inline-block;
+    outline: auto;
     
 }
     
