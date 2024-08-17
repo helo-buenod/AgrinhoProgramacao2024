@@ -18,8 +18,8 @@ body{
     margin-right: auto;
     width: 30%;
     width: 110px;   
-    align-items: center;
     display: inline-block;
+    background-color: darkgray;
 
 }
 
