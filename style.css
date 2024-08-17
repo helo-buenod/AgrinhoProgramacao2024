@@ -20,16 +20,19 @@ body{
     width: 30%;
     width: 50px; 
     display: inline-block; 
-    text-align: center;    
-
+    
 }
+
+h1,p{
+    text-align: center;
+}
+
     
 .cabeçalho-título
 {
     text-align: center;
     background-color: rgb(25, 46, 3);
 font-size: 200%;
-text-align: center;    
 
 }
 
