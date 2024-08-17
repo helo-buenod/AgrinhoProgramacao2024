@@ -17,6 +17,9 @@ body{
     margin-left: auto;
     margin-right: auto;
     width: 30%;
+    .cabeçalho-logotipo 
+        width: 120px;
+    }
 }
 
 .cabeçalho-título
