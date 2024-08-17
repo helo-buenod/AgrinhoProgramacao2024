@@ -19,7 +19,7 @@ body{
     margin-right: auto;
     width: 30%;
     width: 110px;   
-    display: inline-block;
+    
     
 }
 
@@ -28,6 +28,8 @@ body{
     text-align: center;
     background-color: rgb(25, 46, 3);
 font-size: 200%;
+display: inline-block;
+
 
 }
 
