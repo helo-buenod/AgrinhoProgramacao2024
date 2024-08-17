@@ -19,8 +19,11 @@ body{
     margin-right: auto;
     width: 30%;
     width: 50px; 
+    float: left;
     display: inline-block;
     outline: auto;
+    
+    
     
     
     
