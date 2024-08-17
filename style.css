@@ -19,8 +19,8 @@ body{
     margin-right: auto;
     width: 30%;
     width: 50px; 
-    flex-direction: row-reverse;
-    text-align: left;
+    display: inline-block;
+    image-orientation: from-image;
 }
     
 
