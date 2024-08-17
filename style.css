@@ -19,7 +19,7 @@ body{
     margin-right: auto;
     width: 30%;
     width: 50px; 
-    float: left;
+    float: none;
     display: inline-block;
     outline: auto;
     
