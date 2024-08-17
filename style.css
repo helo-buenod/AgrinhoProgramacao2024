@@ -22,7 +22,7 @@ body{
     display: inline-block;
     outline: auto;
     display: flex;
-    align-items: center;
+    align-items: left;
     
 }
     
