@@ -11,6 +11,7 @@ body{
 .cabeçalho-logotipo 
 
 {
+    background-color: darkolivegreen;
     padding: 24px;
     margin-top: 5px;
     display: block;
@@ -19,8 +20,6 @@ body{
     width: 30%;
     width: 110px;   
     display: inline-block;
-    background-color: darkgray;
-
 }
 
 .cabeçalho-título
