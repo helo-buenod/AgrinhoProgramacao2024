@@ -25,6 +25,8 @@ body{
 .cabeçalho-título
 {
     text-align: center;
+    display: inline-block;
+
 }
 
 .participe-do-projeto-img
