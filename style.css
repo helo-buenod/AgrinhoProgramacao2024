@@ -21,8 +21,7 @@ body{
     width: 50px; 
     display: inline-block;
     outline: auto;
-    display: flex;
-    align-items: left;
+    display: left;
     
 }
     
