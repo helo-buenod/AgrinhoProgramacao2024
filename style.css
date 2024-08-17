@@ -18,6 +18,8 @@ body{
     margin-right: auto;
     width: 30%;
     width: 110px;   
+    img, p 
+     display: inline-block;
 
 }
 
