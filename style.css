@@ -19,14 +19,13 @@ body{
     margin-right: auto;
     width: 30%;
     width: 110px;   
-
+    display: inline-block;
 }
 
 .cabeçalho-título
 {
     text-align: center;
-    display: flex;
-    align-items: center;
+
 
 }
 
