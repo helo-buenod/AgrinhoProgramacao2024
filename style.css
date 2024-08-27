@@ -70,3 +70,21 @@ font-size: 200%;
     margin-right: auto;
     width: 30%;
 }
+
+.rodapé{
+    background-color: #4decaf;
+    color: #039651;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+    align-items: center;
+}
+
+.rodapé-imagem{
+    width: 70px;
+}
+
+.rodapé-ícone{
+    width: 30px;
+}
