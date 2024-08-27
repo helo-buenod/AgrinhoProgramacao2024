@@ -88,3 +88,14 @@ font-size: 200%;
 .rodapé-ícone{
     width: 20px;
 }
+
+.card i {
+    font-size: 40px;
+    display: block;
+    color: #f1f1f1;
+    transition:all 0,5 ease;
+}
+
+.card:hover i {
+    text-shadow: 2px 2px 5px #6fa06b;
+}
