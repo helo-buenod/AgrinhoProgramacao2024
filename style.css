@@ -21,12 +21,18 @@ body{
     width: 50px; 
     display: inline-block;
     outline: auto;
-    align-items: center;
+
     
     
     
     
     
+    
+}
+
+header img {
+    max-width: 100%;
+    height: auto;
 }
     
 
