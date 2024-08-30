@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(74, 105, 20);
+    background-color: rgb(125, 192, 9);
     color: white;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 200%;
@@ -11,7 +11,7 @@ body{
 .cabeçalho-logotipo 
 
 {
-    background-color: rgb(122, 184, 6);
+    background-color: rgb(45, 68, 2);
     padding: 24px;
     margin-top: 5px;
     display: block;
@@ -21,8 +21,7 @@ body{
     width: 50px; 
     display: inline-block;
     outline: auto;
-    max-width: 100%;
-   height: auto; 
+
 }
 
     
