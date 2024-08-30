@@ -21,9 +21,8 @@ body{
     width: 50px; 
     display: inline-block;
     outline: auto;
-    header img {
-        max-width: 100%;
-        height: auto; }
+    max-width: 100%;
+   height: auto; }
 
     
     
