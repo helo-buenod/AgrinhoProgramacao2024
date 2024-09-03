@@ -1,92 +1,111 @@
-body{
-    background-color: rgb(125, 192, 9);
+/* Reset básico para remover margens e preenchimentos padrão */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+  }
+  
+  header.cabeçalho {
+    background: #4CAF50; /* Cor de fundo */
     color: white;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 200%;
-    
-    
-    
-}
-
-.cabeçalho-logotipo 
-
-{
-    background-color: rgb(76, 116, 2);
-    color: darkolivegreen;
-    padding: 24px;
-    margin-top: 5px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;
-    width: 50px; 
-    display: inline-block;
-    outline: auto;
-
-}
-
-    
-    
-    
-    
-
-
-"
-    
-.cabeçalho-título
-{
+    padding: 20px;
     text-align: center;
-    background-color: rgb(25, 46, 3);
-font-size: 200%;
-
-
-}
-
-.participe-do-projeto-img
-{
-    padding: 24px;
-    margin-top: 5px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;
-}
-
-.tecnicas-para-agricultores-pequenos-img
-{
-    padding: 24px;
-    margin-top: 5px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;
-}
-
-.mercado-agricola-img
-{
-    padding: 24px;
-    margin-top: 5px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;
-}
-
-.rodapé{
-    background-color: #081b06;
-    color: #f1f1f1;
-    font-size: 20px;
-    display: flex;
-    justify-content: space-around;
-    padding: 24px 0;
-    align-items: center;
-}
-
-.rodapé-imagem{
+    position: relative;
+  }
+  
+  .cabeçalho-título {
+    margin-bottom: 10px;
+    font-size: 1.8em;
+  }
+  
+  .cabeçalho-logotipo {
+    width: 100px;
+    height: auto;
+    vertical-align: middle;
+  }
+  
+  .cabeçalho-lista {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .cabeçalho-lista-item1, .cabeçalho-lista-item2, .cabeçalho-lista-item3 {
+    display: inline;
+    margin: 0 15px;
+    font-size: 1.1em;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .cabeçalho-lista-item1:hover, .cabeçalho-lista-item2:hover, .cabeçalho-lista-item3:hover {
+    text-decoration: underline;
+  }
+  
+  section {
+    padding: 20px;
+    margin: 10px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .participe-do-projeto-img, .tecnicas-para-agricultores-pequenos-img, .mercado-agricola-img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .participe-do-projeto, .tecnicas-para-agricultores-pequenos, .mercado agrícola {
+    margin-bottom: 20px;
+  }
+  
+  .participe-do-projeto-título, .tecnicas-para-agricultores-pequenos-título, .mercado agrícola-titulo {
+    font-size: 1.6em;
+    margin-bottom: 10px;
+  }
+  
+  .participe-do-projeto-texto1, .tecnicas-para-agricultores-pequenos-texto1, .mercado agrícola-texto1 {
+    font-size: 1em;
+    line-height: 1.5;
+  }
+  
+  footer.rodapé {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+  }
+  
+  .rodapé-imagem {
     width: 50px;
-}
-
-.rodapé-ícone{
-    width: 20px;
-}
- 
+    height: auto;
+    vertical-align: middle;
+  }
+  
+  .rodapé-título {
+    margin: 10px 0;
+    font-size: 1.2em;
+  }
+  
+  .rodapé-ícone {
+    width: 30px;
+    height: auto;
+  }
+  
+  .rodapé a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .rodapé a:hover {
+    text-decoration: underline;
+  }
+  
