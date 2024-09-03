@@ -15,7 +15,7 @@
   header.cabeçalho {
     background: #4CAF50; /* Cor de fundo */
     color: white;
-    padding: 20px;
+    padding: 30px;
     text-align: center;
     position: relative;
   }
@@ -26,7 +26,7 @@
   }
   
   .cabeçalho-logotipo {
-    width: 100px;
+    width: 200px;
     height: auto;
     vertical-align: middle;
   }
@@ -49,7 +49,7 @@
   }
   
   section {
-    padding: 20px;
+    padding: 10px;
     margin: 10px;
     background: white;
     border-radius: 8px;
@@ -57,13 +57,13 @@
   }
   
   .participe-do-projeto-img, .tecnicas-para-agricultores-pequenos-img, .mercado-agricola-img {
-    width: 100%;
+    width: 20%;
     height: auto;
     border-radius: 8px;
   }
   
   .participe-do-projeto, .tecnicas-para-agricultores-pequenos, .mercado agrícola {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
   
   .participe-do-projeto-título, .tecnicas-para-agricultores-pequenos-título, .mercado agrícola-titulo {
@@ -85,7 +85,7 @@
   }
   
   .rodapé-imagem {
-    width: 50px;
+    width: 10px;
     height: auto;
     vertical-align: middle;
   }
