@@ -9,7 +9,7 @@
     font-family: 'Open Sans', sans-serif;
     line-height: 1.6;
     color: #013a1d;
-    background-color: #f4f4f4;
+    background-color: #79b68c;
   }
   
   header.cabeçalho {
@@ -38,7 +38,7 @@
   
   .cabeçalho-lista-item1, .cabeçalho-lista-item2, .cabeçalho-lista-item3 {
     display: inline;
-    margin: 0 15px;
+    margin: 0 20px;
     font-size: 1.1em;
     color: white;
     text-decoration: none;
